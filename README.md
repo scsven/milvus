@@ -35,7 +35,7 @@ Try an example program with Milvus using [Python](https://www.milvus.io/docs/exa
 ## Supported clients
 
 -   [Go](https://github.com/milvus-io/milvus-sdk-go)
--   [Python](https://github.com/milvus-io/pymilvus)
+-   Python: [pymilvus](https://github.com/milvus-io/pymilvus), [pymilvus-orm](https://github.com/milvus-io/pymilvus)
 -   [Java](https://github.com/milvus-io/milvus-sdk-java)
 -   [C++](https://github.com/milvus-io/milvus/tree/master/sdk)
 -   [RESTful API](https://github.com/milvus-io/milvus/tree/master/core/src/server/web_impl)
